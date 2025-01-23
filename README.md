@@ -1,5 +1,7 @@
 # CookieRun: Tower of Adventures - Hidden Power Auto-Roller
 
+### Note: Due to "unfortunate" news that a future update will feature a built-in method of auto-rolling hidden powers, this application will become quickly obsolete and will no longer receive further development.
+
 This is an application meant to be used alongside the CookieRun: Tower of Adventures game, to facilitate the process of rolling for hidden powers on equipment based on various criteria such as equipment type, hidden power type, and minimum value.
 
 ## Technologies used
